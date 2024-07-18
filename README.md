@@ -1,4 +1,4 @@
-# <p align="center">LeetCode Dislike Returner</p>
+# <p align="center">LeetCode Dislikes</p>
 
 <p align="center">
 
@@ -13,10 +13,10 @@ Bring back dislike count of problems on [Leetcode.com](https://leetcode.com/) wi
 **Quality Problem Solving**: Say goodbye to solving useless questions that make no sense. This tool allows you to see the dislike count of each problem on Leetcode, so you can avoid the bad ones.
 
 #### Before :
-[![Before](logo/Before.png)]
+![Before](logo/Before.png)
 
 #### After :
-[![After](logo/After.png)]
+![After](logo/After.png)
 
 
 ## Getting Started
